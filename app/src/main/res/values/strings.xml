@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Russian Conjugator</string>
+    <string name="ingrese_verbo">Ingrese verbo</string>
+    <string name="buscar">Buscar</string>
+</resources>
